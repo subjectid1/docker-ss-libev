@@ -1,7 +1,5 @@
 {
     "server":"0.0.0.0",
-    "local_address":"0.0.0.0",
-    "local_port":1080,
     "password":"iachshea",
     "timeout":60,
     "method":"aes-256-cfb"
